@@ -1,0 +1,85 @@
+html,
+body {
+  overflow-x: hidden;
+  font-family: poppins;
+}
+.navbar {
+  border-bottom: solid;
+}
+.navbar-brand {
+  color: #0056d2 !important;
+  font-weight: 500;
+}
+.btn-outline-success {
+  background-color: #0056d2;
+}
+body {
+  font-family: "Poppins";
+}
+.nav-link {
+  color: #0056d2 !important;
+}
+.flexsearchbar {
+  width: -webkit-fill-available;
+  max-width: 30rem;
+  min-width: 20rem;
+}
+
+.Image1 {
+  padding: 3%;
+  text-align: center;
+}
+
+/***BUTTONS***/
+.button {
+  background-color: #000000; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+.button1:hover {
+  background-color: black;
+  color: white;
+}
+.button2 {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
+
+.button2:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}
+
+/*****************************************/
+.universities {
+  width: -webkit-fill-available;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.socialmediaicon {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+}
